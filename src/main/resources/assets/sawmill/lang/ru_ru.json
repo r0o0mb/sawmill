@@ -1,0 +1,22 @@
+{
+  "item.sawmill.sawmill": "Лесопилка",
+  "item.sawmill.forest_incubator": "Лесной Инкубатор",
+  "item.sawmill.speed_upgrade": "Апгрейд скорости",
+  "item.sawmill.efficiency_upgrade": "Апгрейд эффективности",
+  "item.sawmill.automation_upgrade_1": "Апгрейд автоматизации I",
+  "item.sawmill.automation_upgrade_2": "Апгрейд автоматизации II",
+  "item.sawmill.self_diagnosis_upgrade": "Модуль самодиагностики",
+  "item.sawmill.wrench": "Гаечный ключ",
+  "container.sawmill.sawmill": "Лесопилка",
+  "container.sawmill.forest_incubator": "Лесной Инкубатор",
+  "message.sawmill.jammed": "ЗАБИЛОСЬ! Почините гаечным ключом",
+  "message.sawmill.repaired": "Лесопилка починена",
+  "message.sawmill.wrench_no_iron": "Нужны железные слитки для починки",
+  "tooltip.sawmill.upgrade.speed": "Лесопилка обрабатывает брёвна быстрее",
+  "tooltip.sawmill.upgrade.efficiency": "Шанс получить дополнительную партию досок",
+  "tooltip.sawmill.upgrade.automation_1": "Лесопилка принимает брёвна и топливо из воронок",
+  "tooltip.sawmill.upgrade.automation_2": "Лесопилка выталкивает продукцию в соседние контейнеры",
+  "tooltip.sawmill.upgrade.self_diagnosis": "С Автоматизацией II: сама сбрасывает забивание (тратит железо)",
+  "tooltip.sawmill.wrench": "ПКМ по забившейся лесопилке, чтобы починить (тратит железо)",
+  "creativemodetab.sawmill.main": "Лесопилка"
+}

@@ -1,0 +1,22 @@
+{
+  "block.sawmill.sawmill": "Sawmill",
+  "block.sawmill.forest_incubator": "Forest Incubator",
+  "item.sawmill.speed_upgrade": "Speed Upgrade I",
+  "item.sawmill.efficiency_upgrade": "Efficiency Upgrade",
+  "item.sawmill.automation_upgrade_1": "Automation Upgrade I",
+  "item.sawmill.automation_upgrade_2": "Automation Upgrade II",
+  "item.sawmill.self_diagnosis_upgrade": "Self-Diagnosis Module",
+  "item.sawmill.wrench": "Wrench",
+  "container.sawmill.sawmill": "Sawmill",
+  "container.sawmill.forest_incubator": "Forest Incubator",
+  "message.sawmill.jammed": "JAMMED! Repair with a Wrench",
+  "message.sawmill.repaired": "Sawmill repaired",
+  "message.sawmill.wrench_no_iron": "Need iron ingots for repair",
+  "tooltip.sawmill.upgrade.speed": "Sawmill processes logs faster",
+  "tooltip.sawmill.upgrade.efficiency": "Chance to get a bonus plank batch",
+  "tooltip.sawmill.upgrade.automation_1": "Sawmill accepts logs and fuel from hoppers",
+  "tooltip.sawmill.upgrade.automation_2": "Sawmill pushes output to adjacent containers",
+  "tooltip.sawmill.upgrade.self_diagnosis": "With Automation II: auto-clears jams (costs iron)",
+  "tooltip.sawmill.wrench": "Right-click a jammed sawmill to unjam it (costs iron)",
+  "creativemodetab.sawmill.main": "Sawmill"
+}

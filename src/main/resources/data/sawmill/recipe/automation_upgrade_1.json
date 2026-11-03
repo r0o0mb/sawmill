@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " I ",
+    "IHI",
+    " I "
+  ],
+  "key": {
+    "H": "minecraft:hopper",
+    "I": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "sawmill:automation_upgrade_1",
+    "count": 1
+  }
+}

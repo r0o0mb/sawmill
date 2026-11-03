@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "sawmill:item/self_diagnosis_upgrade"
+  }
+}

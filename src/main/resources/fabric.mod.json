@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "sawmill",
+  "version": "${version}",
+  "name": "Лесопилка (Sawmill)",
+  "description": "Добавляет лесопилку: перерабатывает брёвна в доски на топливе, с апгрейдами, лимитом скорости и обслуживанием.",
+  "authors": [
+    "Lesopilka"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.lesopilka.sawmill.SawmillMod"
+    ],
+    "client": [
+      "com.lesopilka.sawmill.client.SawmillClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

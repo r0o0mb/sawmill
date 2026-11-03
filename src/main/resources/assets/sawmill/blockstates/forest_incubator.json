@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=north,lit=false,clogged=false": { "model": "sawmill:block/forest_incubator", "y": 0 },
+    "facing=north,lit=false,clogged=true": { "model": "sawmill:block/forest_incubator_jammed", "y": 0 },
+    "facing=north,lit=true,clogged=false": { "model": "sawmill:block/forest_incubator_on", "y": 0 },
+    "facing=north,lit=true,clogged=true": { "model": "sawmill:block/forest_incubator_jammed", "y": 0 },
+
+    "facing=south,lit=false,clogged=false": { "model": "sawmill:block/forest_incubator", "y": 180 },
+    "facing=south,lit=false,clogged=true": { "model": "sawmill:block/forest_incubator_jammed", "y": 180 },
+    "facing=south,lit=true,clogged=false": { "model": "sawmill:block/forest_incubator_on", "y": 180 },
+    "facing=south,lit=true,clogged=true": { "model": "sawmill:block/forest_incubator_jammed", "y": 180 },
+
+    "facing=west,lit=false,clogged=false": { "model": "sawmill:block/forest_incubator", "y": 270 },
+    "facing=west,lit=false,clogged=true": { "model": "sawmill:block/forest_incubator_jammed", "y": 270 },
+    "facing=west,lit=true,clogged=false": { "model": "sawmill:block/forest_incubator_on", "y": 270 },
+    "facing=west,lit=true,clogged=true": { "model": "sawmill:block/forest_incubator_jammed", "y": 270 },
+
+    "facing=east,lit=false,clogged=false": { "model": "sawmill:block/forest_incubator", "y": 90 },
+    "facing=east,lit=false,clogged=true": { "model": "sawmill:block/forest_incubator_jammed", "y": 90 },
+    "facing=east,lit=true,clogged=false": { "model": "sawmill:block/forest_incubator_on", "y": 90 },
+    "facing=east,lit=true,clogged=true": { "model": "sawmill:block/forest_incubator_jammed", "y": 90 }
+  }
+}

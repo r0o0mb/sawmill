@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "top": "sawmill:block/incubator_top",
+    "front": "sawmill:block/incubator_front_on",
+    "side": "sawmill:block/incubator_side",
+    "bottom": "sawmill:block/incubator_top"
+  }
+}

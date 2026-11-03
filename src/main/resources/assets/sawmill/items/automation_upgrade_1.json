@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "sawmill:item/automation_upgrade_1"
+  }
+}

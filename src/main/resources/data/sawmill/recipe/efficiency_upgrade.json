@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " E ",
+    "IPI",
+    " E "
+  ],
+  "key": {
+    "E": "minecraft:emerald",
+    "I": "minecraft:iron_ingot",
+    "P": "minecraft:oak_planks"
+  },
+  "result": {
+    "id": "sawmill:efficiency_upgrade",
+    "count": 1
+  }
+}

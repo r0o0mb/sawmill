@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " R ",
+    "IPI",
+    " R "
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "P": "minecraft:oak_planks",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "sawmill:speed_upgrade",
+    "count": 1
+  }
+}
