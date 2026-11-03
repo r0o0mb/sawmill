@@ -57,6 +57,10 @@
 
 ## Лесопилка
 
+<img width="724" height="684" alt="image" src="https://github.com/user-attachments/assets/cb7459ed-809f-41b6-abd3-3f5d5d5f5905" />
+
+<img width="1920" height="1080" alt="2026-11-03_19 46 35" src="https://github.com/user-attachments/assets/076cb88d-30ef-4428-b072-17fd79404986" />
+
 Основная машина: бревно + топливо → **4 доски** за партию.
 
 Поддерживаются 12 пород: дуб, ель, берёза, тропическое дерево, акация, тёмный дуб, мангровое, вишня, бледный дуб, бамбук, багровый и искажённый стебель. Доски на выходе всегда соответствуют входному бревну.
@@ -83,6 +87,11 @@ P P P
 ---
 
 ## Лесной Инкубатор
+
+<img width="798" height="750" alt="image" src="https://github.com/user-attachments/assets/0025ddb9-0c75-42a0-8ae9-dcd689d4b9ae" />
+
+<img width="1920" height="1080" alt="2026-11-03_19 46 18" src="https://github.com/user-attachments/assets/18e66ecc-ca3e-4dde-901f-d42300862574" /><img width="1920" height="1080" alt="2026-11-03_19 46 35" src="https://github.com/user-attachments/assets/26969eb5-a562-482a-89c3-1d38032b0e7b" />
+
 
 Вторая машина: саженец + костная мука + топливо → **3–5 брёвен** и **0–2 саженца** того же вида.
 
@@ -258,7 +267,7 @@ I R I
 Нужна **Java 25**. Проверить версию: `java -version`.
 
 ```bash
-git clone <репозиторий>
+git clone https://github.com/R0oOMB/sawmill.git
 cd sawmill
 ./gradlew build
 ```
