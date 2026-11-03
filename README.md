@@ -90,8 +90,7 @@ P P P
 
 <img width="798" height="750" alt="image" src="https://github.com/user-attachments/assets/0025ddb9-0c75-42a0-8ae9-dcd689d4b9ae" />
 
-<img width="1920" height="1080" alt="2026-11-03_19 46 18" src="https://github.com/user-attachments/assets/18e66ecc-ca3e-4dde-901f-d42300862574" /><img width="1920" height="1080" alt="2026-11-03_19 46 35" src="https://github.com/user-attachments/assets/26969eb5-a562-482a-89c3-1d38032b0e7b" />
-
+<img width="1920" height="1080" alt="2026-11-03_19 46 18" src="https://github.com/user-attachments/assets/58fff7f7-fc43-4517-9ee9-85a214b752ca" />
 
 Вторая машина: саженец + костная мука + топливо → **3–5 брёвен** и **0–2 саженца** того же вида.
 
