@@ -266,7 +266,7 @@ I R I
 Нужна **Java 25**. Проверить версию: `java -version`.
 
 ```bash
-git clone https://github.com/R0oOMB/sawmill.git
+git clone https://github.com/R0o0MB/sawmill.git
 cd sawmill
 ./gradlew build
 ```
